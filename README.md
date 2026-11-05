@@ -15,3 +15,19 @@
 ## Practical 4 - 28/9/26
 
 - To understand the presence and impact of AdWords on a website, and explore their relevance for marketing and revenue generation
+
+## Practical 5 -
+
+- To apply advanced data mining techniques to extract valuable insights and patterns from web data, aiding decision-making and business intelligence
+
+## Practical 6 -
+
+- To implement algorithms to rank web documents based on relevance and importance, improving search engine efficiency
+
+## Practical 7 -
+
+- To apply knowledge discovery techniques to uncover valuable patterns and trends from web databases in practical applications
+
+## Practical 8 -
+
+- To understand the Jaccard Similarity measure and implement it in Python to compare sets, useful in various data analysis tasks
